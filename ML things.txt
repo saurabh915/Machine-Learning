@@ -1,0 +1,1 @@
+in machine learning labels are the output and features are the inputs.
