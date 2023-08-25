@@ -1,1 +1,7 @@
 in machine learning labels are the output and features are the inputs.
+
+
+in regression we have to just form an equation like
+y = mx + c
+
+where y is the output and x is the input  we have to predict appropriate value of m such that equation gets satisfied for all instances
